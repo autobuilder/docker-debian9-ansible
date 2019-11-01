@@ -4,7 +4,7 @@
 
 <img src="https://www.ansible.com/hubfs/2016_Images/Assets/Ansible-Mark-Large-RGB-Pool.png?hsLang=en-us" width="10%" height="10%" alt="Ansible logo" align="right"/>
 <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png" width="13%" height="13%" alt="Docker logo" align="right"/>
-<img src="https://www.debian.org/logos/diversity-2019.png" width="8%" height="8%" alt="Debian logo" align="right"/>
+<img src="https://www.debian.org/logos/diversity-2019.png" width="9%" height="9%" alt="Debian logo" align="right"/>
 
 [![Build Status](https://travis-ci.org/autobuilder/docker-debian9-ansible.svg?branch=master)](https://travis-ci.org/autobuilder/docker-debian9-ansible)
 ![Platform](https://img.shields.io/badge/platform-debian-a80030.svg?style=flat) 
