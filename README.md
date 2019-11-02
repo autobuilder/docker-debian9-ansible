@@ -12,7 +12,7 @@
 [![License](https://img.shields.io/github/license/autobuilder/docker-debian9-ansible)](https://opensource.org/licenses/MIT)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/autobuilder/docker-debian9-ansible/issues)
 
-Debian9 Docker image fo Ansible test
+Debian9 Docker image for Ansible test
 
 ---
 
